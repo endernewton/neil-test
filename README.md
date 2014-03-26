@@ -18,5 +18,6 @@ Credit:
 0) Partial Code from Deformable Part-based Model for testing: http://www.cs.berkeley.edu/~rbg/latent/index.html
 1) Partial Code from Exemplar SVM for faster detection: http://www.cs.cmu.edu/~tmalisie/projects/iccv11/
 
+
 Xinlei Chen
 	
