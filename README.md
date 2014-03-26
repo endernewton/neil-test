@@ -8,7 +8,6 @@ This is an evolving piece of code that implements the testing code in this paper
   title        = "NEIL: Extracting Visual Knowledge from Web Data",
   booktitle    = "International Conference on Computer Vision (ICCV)",
   year         = "2013",
-  
 }
 
 
