@@ -4,7 +4,7 @@ neil-test
 This is an evolving piece of code that implements the testing code in this paper:
 
 @InProceedings{ChenICCV2013,<br>
-  author       = "Xinlei Chen and Abhinav Shrivastava and Abhinav Gupta",<br>
+	author       = "Xinlei Chen and Abhinav Shrivastava and Abhinav Gupta",<br>
   title        = "NEIL: Extracting Visual Knowledge from Web Data",<br>
   booktitle    = "International Conference on Computer Vision (ICCV)",<br>
   year         = "2013",<br>
