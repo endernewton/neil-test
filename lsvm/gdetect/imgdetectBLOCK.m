@@ -4,6 +4,10 @@ if nargin < 5
     options = [];
 end
 
+if ~isfield(options, 'bFlipTest')
+   options.bFlipTest = false;
+end
+
 shrinkTest = 0;
 if isfield(options,'shrinkTestObj')
     shrinkTest = options.shrinkTestObj;
